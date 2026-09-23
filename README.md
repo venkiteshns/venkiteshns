@@ -147,10 +147,28 @@ I am a **Full-Stack Software Engineer** experienced in building high-throughput 
 
 ### 💡 Core Engineering Principles
 
-┌─────────────────────────────────────────────────────────────────────────┐ 
-│ 01. Clean Architecture │ Domain-driven, modular controllers & models│ │ 02. Performance First │ In-memory caching (Redis), lazy loading │ │ 03. Security by Design │ Enterprise RBAC, JWT rotation, validation │ │ 04. Real-time Systems │ Event-driven WebSocket architectures │ └─────────────────────────────────────────────────────────────────────────┘
-
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ 01. Clean Architecture</h4>
+      <p>Domain-driven design, modular controllers, and strict separation of business logic from routing layers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ 02. Performance First</h4>
+      <p>Low-latency data pipelines using Redis in-memory caching, database query indexing, and code splitting.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔒 03. Security by Design</h4>
+      <p>Enterprise-grade RBAC, JWT access/refresh token rotation, sanitized inputs, and API rate limiting.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 04. Real-time Systems</h4>
+      <p>Bi-directional event architectures with WebSockets (Socket.io) for instant messaging and live updates.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 Git Velocity & Activity
