@@ -148,8 +148,10 @@ I am a **Full-Stack Software Engineer** experienced in building high-throughput 
 ### 💡 Core Engineering Principles
 
 ┌─────────────────────────────────────────────────────────────────────────┐ 
+
 │ 01. Clean Architecture │ Domain-driven, modular controllers & models    │ 
 │ 02. Performance First │ In-memory caching (Redis), lazy loading         │
+
 │ 03. Security by Design │ Enterprise RBAC, JWT rotation, validation      │
 │ 04. Real-time Systems │ Event-driven WebSocket architectures            │
 └─────────────────────────────────────────────────────────────────────────┘
