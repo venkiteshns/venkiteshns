@@ -2,9 +2,6 @@
 
 <!-- STATUS & HUD BAR -->
 <p align="center">
-  <a href="mailto:nsvenkitesh.brototype.in@gmail.com">
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status: Available for hire" />
-  </a>
   <a href="https://www.linkedin.com/in/venkitesh-n-s-53195132b">
     <img src="https://img.shields.io/badge/LOCATION-INDIA-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
