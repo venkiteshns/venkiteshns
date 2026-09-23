@@ -1,108 +1,165 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello World, I'm [Venkitesh N S](https://github.com/venkiteshns)
+<!-- STATUS & HUD BAR -->
+<p align="center">
+  <a href="mailto:nsvenkitesh.brototype.in@gmail.com">
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status: Available for hire" />
+  </a>
+  <a href="https://www.linkedin.com/in/venkitesh-n-s-53195132b">
+    <img src="https://img.shields.io/badge/LOCATION-INDIA-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </a>
+  <a href="https://github.com/venkiteshns?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPERIENCE-MERN%20%7C%20FULL%20STACK-6366f1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<!-- NAME & HERO -->
+<h1 align="center">Venkitesh N S</h1>
 
-### *Transforming ideas into code, one commit at a time* ✨
+<p align="center">
+  <b>Full-Stack Software Engineer • MERN Stack & Scalable Web Architectures</b><br>
+  <i>Crafting high-throughput REST APIs, resilient backends, and responsive interfaces.</i>
+</p>
 
-<a href="https://www.buymeacoffee.com" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150">
-</a>
+<!-- DYNAMIC TYPING SVG (CYBER INDIGO THEME) -->
+<p align="center">
+  <a href="https://github.com/venkiteshns">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Resilient+Full-Stack+Platforms;Architecting+REST+APIs+%2B+Socket.io+Realtime;MongoDB+%2B+Redis+Caching+Pipelines;React+19+%2B+Tailwind+CSS+%2B+Shadcn+UI" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- QUICK ACTION BUTTONS -->
+<p align="center">
+  <a href="mailto:nsvenkitesh.brototype.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/venkitesh-n-s-53195132b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/8921797053">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+### 💼 Executive Summary
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-- 🔭 Currently building awesome web applications
-- 🌱 Always exploring new technologies in web and software development
-- 💡 Love solving complex problems with elegant solutions
-- 🎯 Goal: Contributing to impactful open source projects
-- ⚡ Fun fact: I debug with coffee ☕
-- 🎮 When not coding: Playing games & exploring new tech ♟️
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-### 🎭 Frontend Sorcery
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🎨 Style Wizardry
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚡ Backend Magic
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkiteshns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%">
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkiteshns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkiteshns&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&layout=compact">
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=venkiteshns&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
-</p>
-
-[![Venkitesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkiteshns&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkitesh-n-s-53195132b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:nsvenkitesh.brototype.in@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://wa.me/8921797053">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+I am a **Full-Stack Software Engineer** focused on engineering high-performance web applications and scalable backend architectures. With strong hands-on experience across the **MERN ecosystem (MongoDB, Express, React, Node.js)**, **Redis caching**, **WebSockets (Socket.io)**, and **Docker containerization**, I focus on building real-world products that balance performance, clean code architecture, and exceptional user experience.
 
 ---
 
-### 🐍 Watch my contribution graph get eaten by the snake
+### 🚀 Flagship Engineering Projects
 
+Here are select full-stack systems I designed and architected:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌟 Nexaro — On-Demand Task & Service Marketplace</h3>
+      <p align="center">
+        <a href="https://github.com/venkiteshns/Nexaro"><b>View Source Code ➔</b></a>
+      </p>
+      <p>A dual-sided real-time marketplace enabling clients to post jobs and verified workers to bid and execute tasks with end-to-end milestone tracking.</p>
+      <ul>
+        <li><b>Real-Time Bidding & Notifications:</b> Built bi-directional event pipelines with <code>Socket.io</code> for live task bidding and alerts.</li>
+        <li><b>High-Speed Data Layer:</b> Integrated <code>Redis</code> for caching hot task data, reducing DB latency by up to 60%.</li>
+        <li><b>Geospatial Mapping:</b> Implemented task discovery and geohashing with <code>Leaflet</code>.</li>
+        <li><b>Payment Gateways:</b> Automated escrow & wallet transactions via <code>PayPal SDK</code>.</li>
+        <li><b>Security:</b> RBAC, JWT access/refresh token rotation, and Google OAuth 2.0.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Furniora — Modern E-Commerce Platform</h3>
+      <p align="center">
+        <a href="https://github.com/venkiteshns/Furniora"><b>View Source Code ➔</b></a>
+      </p>
+      <p>A production-grade online retail storefront engineered with React 19, responsive styling, and modular state architecture.</p>
+      <ul>
+        <li><b>Modern UI Architecture:</b> Built with <code>React 19</code>, <code>Vite</code>, and utility-first styling with <code>Tailwind CSS v4</code>.</li>
+        <li><b>Predictable State Management:</b> Engineered complex cart, checkout, and inventory states with <code>Redux Toolkit</code>.</li>
+        <li><b>Dynamic Filtering & Search:</b> Instant faceted search with debounced client-side queries and responsive filtering.</li>
+        <li><b>Robust Validation:</b> Integrated <code>React Hook Form</code> and structured error handling for friction-free checkouts.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Competency Matrix
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Engineering** | `JavaScript (ES6+)`, `TypeScript`, `React 19`, `Vite`, `Next.js`, `Redux Toolkit`, `Zustand`, `Tailwind CSS v4`, `Shadcn UI`, `HTML5/CSS3` |
+| **Backend & Architecture** | `Node.js`, `Express.js`, `RESTful APIs`, `WebSockets (Socket.io)`, `MVC Architecture`, `Authentication (JWT, OAuth 2.0, OTP)` |
+| **Databases & In-Memory** | `MongoDB (Mongoose)`, `Redis (Caching & Rate Limiting)` |
+| **DevOps & Infrastructure** | `Docker`, `Docker Compose`, `Git & GitHub Workflows`, `Linux CLI`, `Postman API Testing`, `Vercel` |
+| **Third-Party Integrations** | `PayPal SDK`, `Cloudinary (Media CDN)`, `NodeMailer (Email Transports)`, `Leaflet (Geospatial Mapping)` |
+
+---
+
+### 💡 Core Engineering Principles
+┌─────────────────────────────────────────────────────────────────────────┐ 
+│ 01. Clean Architecture │ Domain-driven, modular controllers & models    │ 
+│ 02. Performance First │ In-memory caching (Redis), lazy loading         │ 
+│ 03. Security by Design │ JWT refresh tokens, sanitized inputs, RBAC     │ 
+│ 04. Real-time Capabilities│ Event-driven WebSocket architectures        │ 
+└─────────────────────────────────────────────────────────────────────────┘
+
+
+---
+
+### 📊 Git Velocity & Activity
+
+<div align="center">
+
+<!-- GitHub Streak Stats (Active & Reliable) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venkiteshns/venkiteshns/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=venkiteshns&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
 
-### 📈 Profile Stats
-
+<!-- Live Snake Contribution Animation (Runs natively via your GitHub Action) -->
+<h4>🐍 Contribution Heatmap in Motion</h4>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkiteshns&label=Profile%20views&color=38B2AC&style=flat" alt="Profile Views">
-  <img src="https://badges.pufler.dev/years/venkiteshns" alt="Years">
-  <img src="https://badges.pufler.dev/repos/venkiteshns" alt="Repos">
-  <img src="https://badges.pufler.dev/commits/monthly/venkiteshns" alt="Commits">
+  <img src="https://raw.githubusercontent.com/venkiteshns/venkiteshns/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-### *Let's create something amazing together!* 🚀
-
+<!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://komarev.com/ghpvc/?username=venkiteshns&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/venkiteshns?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-1200%2B-6366f1?style=flat-square" alt="Total Contributions" />
 </p>
 
-### *Thank you for visiting my profile!* 💖
+</div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="50" height="50" />
+---
+
+### 📬 Let's Connect & Build Together
+
+Whether you are looking to hire a dedicated **Full-Stack / Backend / MERN Engineer**, collaborate on open-source initiatives, or discuss software architecture:
+
+- 💼 **LinkedIn:** [linkedin.com/in/venkitesh-n-s-53195132b](https://www.linkedin.com/in/venkitesh-n-s-53195132b)
+- 📧 **Direct Email:** [nsvenkitesh.brototype.in@gmail.com](mailto:nsvenkitesh.brototype.in@gmail.com)
+- 💬 **WhatsApp:** [+91 8921797053](https://wa.me/8921797053)
+- 📂 **GitHub Repositories:** [github.com/venkiteshns?tab=repositories](https://github.com/venkiteshns?tab=repositories)
+
+<div align="center">
+  <sub>Designed with precision • Built for production-grade engineering</sub>
+</div>
