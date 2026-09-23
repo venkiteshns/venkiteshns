@@ -56,8 +56,8 @@ I am a **Full-Stack Software Engineer** experienced in building high-throughput 
 <table>
   <tr>
     <td width="100%">
-      <h3>🔬 Forensic Talents India — Enterprise Lab & Talent Management System</h3>
-      <p><i>Client / Deployment: <b>Forensic Lab, Gujarat, India</b></i></p>
+      <h3>🔬 Forensic Talents India — Enterprise Lab &  Management System</h3>
+      <p><i>Client / Deployment: <b>Forensic Talents India, Forensic Lab, Gujarat, India</b></i></p>
       <p>An enterprise-grade dual-application ecosystem architected to streamline candidate management, verification pipelines, and administrative workflows for forensic laboratory talent operations.</p>
       <ul>
         <li><b>Dual-System Architecture:</b> Engineered two independent, synchronized platforms:
