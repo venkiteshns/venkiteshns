@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LOCATION-INDIA-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
   <a href="https://github.com/venkiteshns?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPERIENCE-MERN%20%7C%20FULL%20STACK-6366f1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/EXPERIENCE-MERN%20%7C%20ENTERPRISE%20%26%20FULL%20STACK-6366f1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
   </a>
 </p>
 
@@ -18,13 +18,13 @@
 
 <p align="center">
   <b>Full-Stack Software Engineer • MERN Stack & Scalable Web Architectures</b><br>
-  <i>Crafting high-throughput REST APIs, resilient backends, and responsive interfaces.</i>
+  <i>Crafting high-throughput REST APIs, resilient backends, and enterprise-grade platforms.</i>
 </p>
 
 <!-- DYNAMIC TYPING SVG (CYBER INDIGO THEME) -->
 <p align="center">
   <a href="https://github.com/venkiteshns">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Resilient+Full-Stack+Platforms;Architecting+REST+APIs+%2B+Socket.io+Realtime;MongoDB+%2B+Redis+Caching+Pipelines;React+19+%2B+Tailwind+CSS+%2B+Shadcn+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Enterprise+%26+Full-Stack+Platforms;Architecting+REST+APIs+%2B+Socket.io+Realtime;MongoDB+%2B+Redis+Caching+Pipelines;React+19+%2B+Tailwind+CSS+%2B+Shadcn+UI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,18 +47,49 @@
 
 ### 💼 Executive Summary
 
-I am a **Full-Stack Software Engineer** focused on engineering high-performance web applications and scalable backend architectures. With strong hands-on experience across the **MERN ecosystem (MongoDB, Express, React, Node.js)**, **Redis caching**, **WebSockets (Socket.io)**, and **Docker containerization**, I focus on building real-world products that balance performance, clean code architecture, and exceptional user experience.
+I am a **Full-Stack Software Engineer** experienced in building high-throughput web applications, real-time architectures, and enterprise systems. Having delivered institutional software for a **Forensic Lab in Gujarat** alongside complex platforms with **MERN, Redis caching, WebSockets (Socket.io), and Docker**, I focus on building resilient software that balances security, performance, clean code architecture, and high usability.
 
 ---
 
-### 🚀 Flagship Engineering Projects
+### 🏛️ Featured Enterprise & Institutional Work
 
-Here are select full-stack systems I designed and architected:
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🔬 Forensic Talents India — Enterprise Lab & Talent Management System</h3>
+      <p><i>Client / Deployment: <b>Forensic Lab, Gujarat, India</b></i></p>
+      <p>An enterprise-grade dual-application ecosystem architected to streamline candidate management, verification pipelines, and administrative workflows for forensic laboratory talent operations.</p>
+      <ul>
+        <li><b>Dual-System Architecture:</b> Engineered two independent, synchronized platforms:
+          <ul>
+            <li><code>Forensic Talents India</code> — Public-facing candidate portal for talent onboarding, application tracking, and profile submissions.</li>
+            <li><code>Admin Forensic Talents India</code> — Secure, high-privilege administrative portal for forensic verification, evaluation tracking, and lab operations.</li>
+          </ul>
+        </li>
+        <li><b>Granular Security & RBAC:</b> Strict Role-Based Access Control and encrypted session handling ensuring sensitive institutional data protection.</li>
+        <li><b>Document & Records Pipeline:</b> Secure document upload, verification, and audit logging to maintain chain of integrity for candidate records.</li>
+        <li><b>Confidentiality:</b> <i>🔒 Codebases maintained in private repositories under institutional NDA & security compliance.</i></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Architecture-Dual--Portal%20System-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-Enterprise%20RBAC-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Flagship Full-Stack Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌟 Nexaro — On-Demand Task & Service Marketplace</h3>
+      <h3 align="center">🌟 Nexaro — On-Demand Task Marketplace</h3>
       <p align="center">
         <a href="https://github.com/venkiteshns/Nexaro"><b>View Source Code ➔</b></a>
       </p>
@@ -115,11 +146,12 @@ Here are select full-stack systems I designed and architected:
 ---
 
 ### 💡 Core Engineering Principles
+
 ┌─────────────────────────────────────────────────────────────────────────┐ 
 │ 01. Clean Architecture │ Domain-driven, modular controllers & models    │ 
-│ 02. Performance First │ In-memory caching (Redis), lazy loading         │ 
-│ 03. Security by Design │ JWT refresh tokens, sanitized inputs, RBAC     │ 
-│ 04. Real-time Capabilities│ Event-driven WebSocket architectures        │ 
+│ 02. Performance First │ In-memory caching (Redis), lazy loading         │
+│ 03. Security by Design │ Enterprise RBAC, JWT rotation, validation      │
+│ 04. Real-time Systems │ Event-driven WebSocket architectures            │
 └─────────────────────────────────────────────────────────────────────────┘
 
 
@@ -129,12 +161,12 @@ Here are select full-stack systems I designed and architected:
 
 <div align="center">
 
-<!-- GitHub Streak Stats (Active & Reliable) -->
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=venkiteshns&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
 
-<!-- Live Snake Contribution Animation (Runs natively via your GitHub Action) -->
+<!-- Live Snake Contribution Animation -->
 <h4>🐍 Contribution Heatmap in Motion</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/venkiteshns/venkiteshns/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -153,7 +185,7 @@ Here are select full-stack systems I designed and architected:
 
 ### 📬 Let's Connect & Build Together
 
-Whether you are looking to hire a dedicated **Full-Stack / Backend / MERN Engineer**, collaborate on open-source initiatives, or discuss software architecture:
+Whether you are looking to hire a dedicated **Full-Stack / Backend / MERN Engineer**, collaborate on software development, or discuss system architecture:
 
 - 💼 **LinkedIn:** [linkedin.com/in/venkitesh-n-s-53195132b](https://www.linkedin.com/in/venkitesh-n-s-53195132b)
 - 📧 **Direct Email:** [nsvenkitesh.brototype.in@gmail.com](mailto:nsvenkitesh.brototype.in@gmail.com)
